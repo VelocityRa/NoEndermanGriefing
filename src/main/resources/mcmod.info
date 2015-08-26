@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noendermangriefing",
+  "name": "No Enderman Griefing",
+  "description": "A very simple mod that prevents Endermen from picking up and placing blocks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.reddit.com/user/VeloCity666",
+  "updateUrl": "",
+  "authorList": ["Vel0cityX"],
+  "credits": "The Forge/FML guys and Vel0cityX",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
