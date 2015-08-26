@@ -1,0 +1,29 @@
+*.classpath
+*.project
+.gradle/
+.settings/
+build/
+eclipse/
+/bin
+
+# IntelliJ Files
+*.iml
+*.iws
+*.ipr
+*.idea/
+output/
+*.bat
+
+!*.lang
+run/
+logs/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
